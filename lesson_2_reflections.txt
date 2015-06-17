@@ -10,3 +10,9 @@ What value do you think it offers?
 (working directory) and a collection of files that does belong to git (staging) and
 which will become part of the repository. It allows one to see what has been added
 and what has been excluded.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+> Add only the file(s) per each logical change to the staging area and commit
+before addressing the next logical change (?)
