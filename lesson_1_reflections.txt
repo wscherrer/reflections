@@ -1,0 +1,44 @@
+How did viewing a diff between 2 versions of a file help you see the bug that was 
+introduced?
+
+> Viewing a diff excluded content that wasn't a problem, making finding the type / bug
+easy.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+> It would be much easier to view the history of a single file's changes, especially over a long
+period of time than viewing those same changes in a large group of files.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+> Manually choosing when to commit allows the programmer to organize the history in logical
+pieces that are easier to read and understand. Auto-saving, depending on frequency, would
+produce an enormous number of files; many with 'mid-way' changes that may not be easy
+to understand and/or would not compile
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+> Git allows committing files that are related, or that affect one another, while
+Google docs don't take file interrelation into account (such relations are more
+important in programming...)
+
+How can you use the commands git log and git diff to view the history of files?
+
+> git log will list all commits starting with most recent; use git diff to compare
+files using their ids; the changes are preceded by a plus (add) or minus (deletion)
+and if color output is on, adds are green, deletions are red
+
+How might using version control make you more confident to make changes that
+could break something?
+
+> Because it's relatively easy to revert back to a previous version of the program using
+comparing commit ids
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+> To keep programming projects better organized and eventually contribute to some open
+source projects on github
