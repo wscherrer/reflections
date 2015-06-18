@@ -16,3 +16,9 @@ change?
 
 > Add only the file(s) per each logical change to the staging area and commit
 before addressing the next logical change (?)
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+>Branches would be helpfule in creating additional versions, add and test new features
+before making new versions, experiment...
