@@ -28,3 +28,10 @@ How do the diagrams help you visualize the branch structure?
 > Diagrams make keeping track of the graph and what changes were made easier. A text
 representation of this is not manageable, especially within limited amount of screen
 space.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+> Merging branches includes a group of separate results within the larger program once
+they've been thought through and tested. The representation in a diagram makes their
+separation clearer.
