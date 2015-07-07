@@ -11,6 +11,21 @@ automatically stay up-to-date with your remote repository?
 these might have been necessary. Pulling manually breaks the work up into smaller,
 more manageable pieces.
 
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+> Forks are working copies of a project, stored in a contributor's github namespace/account. 
+It can be altered without affecting the original project. Forking is how one can contribute 
+to a project without having push access. Having changes added would require review and
+authorization from the project owner(s).
+  A clone is a full copy of a project that can be transferred to a local directory or to 
+a server. Contributors with full access would use this method of access to add to a project.
+  A branch is a separate section of work, or a departure from the main master branch. It
+allows one to make potential changes to a project without affecting the master or other 
+branches. Changes / commits made to a branch aren't reflected in the master until it is 
+merged with it.
+
+
 
 
 
