@@ -2,7 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 local?
 
 > When a group of people are needed for a project. Sharing a remote repository both allows
-individuals to work independently and enables the group to coordinate their efforts.
+individuals to work independently and enables the group to better coordinate their efforts.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
@@ -24,6 +24,17 @@ a server. Contributors with full access would use this method of access to add t
 allows one to make potential changes to a project without affecting the master or other 
 branches. Changes / commits made to a branch aren't reflected in the master until it is 
 merged with it.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+> To check for potential conflicting changes to both the local and remote repositories
+before merging. To have a complete copy of the remote repository to work on while
+offline.
+
+
+
+
 
 
 
