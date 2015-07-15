@@ -32,6 +32,17 @@ stored locally?
 before merging. To have a complete copy of the remote repository to work on while
 offline.
 
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+> Collaborating without git would require at least some simple rules for even the smallest
+of projects. Initially, these rules for the management of a small project might seem easier
+to work with than conforming to the organizational structure imposed by git. But this could 
+quickly fall apart as the project grew in size, especially if the number of collaborators
+grew to more than a few people. Keeping track of changes to a large core project, let alone 
+new features that may or may not be added, would be very difficult without git's user, commit
+and conflict tracking and branching features.
+
 
 
 
