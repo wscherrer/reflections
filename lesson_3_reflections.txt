@@ -43,6 +43,13 @@ grew to more than a few people. Keeping track of changes to a large core project
 new features that may or may not be added, would be very difficult without git's user, commit
 and conflict tracking and branching features.
 
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+> Significant changes would be added in a separate branch, keeping these more isolated from
+the core project until they are finalized and other changes or corrections would be added
+to master.
+
 
 
 
